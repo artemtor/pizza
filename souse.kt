@@ -1,3 +1,0 @@
-interface Souse {
-    fun SouseSale()
-}
